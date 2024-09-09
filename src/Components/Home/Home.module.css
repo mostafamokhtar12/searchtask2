@@ -1,0 +1,33 @@
+.mytable{
+    border:blue 2px solid;
+}
+.show{
+    max-height: 1000px;
+    
+}
+.dropdowndiv2{
+    max-height: 0px;
+    overflow: hidden;
+    transition:  max-height 0.5s ease-in-out;
+}
+.show2{
+    max-height: 150px;
+}
+
+
+.mainColor{
+    background-color: #738ce8;
+}
+
+.fontColor{
+    color: #515e8d;
+}
+
+
+input:focus{
+   outline: none;
+}
+
+.myInput{
+    flex: 0 0 auto;
+}
